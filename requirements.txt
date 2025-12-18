@@ -1,0 +1,3 @@
+Optional: If using custom Python tool nodes within n8n
+
+openai>=1.0.0 twilio>=8.0.0 flask>=2.0.0 python-dotenv>=1.0.0
